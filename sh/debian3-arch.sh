@@ -5,3 +5,4 @@ distrobox-export --app extra/blender
 distrobox-export --app extra/torbrowser-launcher
 distrobox-export --app veracrypt
 exit
+exit
