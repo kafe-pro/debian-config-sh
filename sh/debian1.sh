@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+# install gnome
+sudo apt install --no-install-recommends -y gnome-core
+
 # config dark-theme
 gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
