@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# install gnome
+# install gnome-core
 sudo apt install --no-install-recommends -y gnome-core
 
 # config dark-theme
